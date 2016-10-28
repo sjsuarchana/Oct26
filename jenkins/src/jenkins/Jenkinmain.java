@@ -15,7 +15,7 @@ public class Jenkinmain {
 		System.out.println("sum is "+sum);
 		multi change2 = new multi();
 		int product = change2.prod(num1,num2);
-		System.out.println(product);
+		System.out.println("Doubting bat "+ product);
 		getinput.close();
 	}
 
